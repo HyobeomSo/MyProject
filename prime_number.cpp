@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int arr[100000];
+int arr[500000];
 
 int main() {
-    const int SIZE = 100001;
+    const int SIZE = 500001;
     int i, j;
 
     for(i = 2; i < SIZE; i++)
